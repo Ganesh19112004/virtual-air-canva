@@ -31,6 +31,9 @@ pip install opencv-python mediapipe numpy
 Run the Application
 To run the application, simply execute the Python script:
 
+bash
+Copy
+Edit
 python virtual_air_canva.py
 The camera feed will appear in a window, and you can start drawing in the air using hand gestures. Press ESC to exit the application.
 
