@@ -84,8 +84,6 @@ Application Interface
 Contributing
 Feel free to fork and modify the project as needed. If you have any suggestions or improvements, please submit an issue or a pull request.
 
-License
-This project is licensed under the MIT License.
 
 Instructions for Saving Artwork
 When you’re done with your creation, simply click the Save button, and the drawing will be saved with a timestamp.
